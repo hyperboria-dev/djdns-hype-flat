@@ -1,7 +1,7 @@
 {
     "meta": {
-        "authority": "https://github.com/campadrenalin/djdns-hype-flat",
-        "contact": "https://github.com/campadrenalin/djdns-hype-flat/issues",
+        "authority": "https://github.com/hyperboria-dev/djdns-hype-flat",
+        "contact": "https://github.com/hyperboria-dev/djdns-hype-flat/issues",
         "about": "An example of a local alt DNS server deferral",
         "policy": "Structural. Report issues to contact link."
     },
