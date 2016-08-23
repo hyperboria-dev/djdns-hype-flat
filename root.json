@@ -6,6 +6,11 @@
             "targets" : ["./tlds/hype/root.json"]
         },
         {
+            "selector": "\\.h$",
+            "records" : [],
+            "targets" : ["./tlds/h/root.json"]
+        },
+        {
             "selector": "\\.bit$",
             "records" : [],
             "targets" : ["defer/namecoin.json"],

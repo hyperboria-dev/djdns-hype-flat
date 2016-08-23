@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "about": "The DJDNS document for the .h TLD."
+    },
+    "branches": [
+        {
+            "selector": "(^|\\.)h\\.h$",
+            "records" : [],
+            "targets" : ["private/kylerschin.json"]
+        },
+        {
+            "selector": ".*",
+            "records" : [],
+            "targets" : ["tlds/h/generated.json"]
+        }
+    ]
+}
+
