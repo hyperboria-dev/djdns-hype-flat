@@ -7,12 +7,12 @@
     },
     "branches": [
         {
-            "selector": "^v6\\.hype$",
+            "selector": "^glitchedpixels\\.hype$",
             "records" : [
                 {
                     "domain_name": "v6.h",
                     "rtype" : "AAAA",
-                    "rdata": "fc3f:bc82:a104:8933:ba0f:2d2c:de82:966"
+                    "rdata": "fc5e:b8f7:868d:36f4:c86e:ab39:82d3:1f7d"
                 }
             ],
             "targets" : []
